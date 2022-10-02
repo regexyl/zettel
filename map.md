@@ -38,9 +38,11 @@ Any fleeting and distracting thoughts that do not contribute to the progress of 
 
 ### Time Blocking
 **Lengthening of time blocks**
+
 Time blocks can be lengthened to my discretion, *but* time blocks should usually be scheduled with 30% of the original planned time to spare. (So try as much as you can to not lengthen the scheduled time block.)
 
 **Start of time block - goal setting**
+
 Set a goal for what you want to achieve within that time block.
 
 - It should be something you can finish within 2/3 of the given time.
